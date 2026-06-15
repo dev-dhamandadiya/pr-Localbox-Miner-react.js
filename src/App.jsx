@@ -115,7 +115,7 @@ const App = () => {
         <div className="row justify-content-center">
           <div className="col-md-6">
 
-            <h2 className="text-center mb-4">Add New Book</h2>
+            <h2 className="text-center mb-4">{editId ? "Update Book" : "Add Book"}</h2>
 
             <form method='post' action='' onSubmit={handelSubmit}>
               <div className="mb-3">
