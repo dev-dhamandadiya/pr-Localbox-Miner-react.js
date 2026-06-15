@@ -31,17 +31,18 @@ A React.js based Book Management System that allows users to add, update, delete
 
 ## 📸 Project Screenshots
 
+
 ### Add Book Form
 
-<img width="100%" alt="Add Book" src="PASTE_IMAGE_1_URL_HERE">
+<img width="100%" alt="Add Book" src="./add_book.png">
 
 ### Book List
 
-<img width="100%" alt="Book List" src="PASTE_IMAGE_2_URL_HERE">
+<img width="100%" alt="Book List" src="./table_form.png">
 
 ### Update Book
 
-<img width="100%" alt="Update Book" src="PASTE_IMAGE_3_URL_HERE">
+<img width="100%" alt="Update Book" src="./edit_form.png">
 
 ---
 
